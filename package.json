@@ -1,0 +1,21 @@
+{
+  "name": "luminary",
+  "displayName": "luminary",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Luminary",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Luminary-color-theme.json"
+      }
+    ]
+  }
+}
