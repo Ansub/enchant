@@ -4,7 +4,7 @@
   "description": "A dark theme with a touch of magic",
   "version": "0.1.0",
   "publisher": "Ansub",
-  "icon": "/icon/enchant.png",
+  "icon": "icon/enchant.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/ansub/enchant"
