@@ -26,9 +26,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Luminary",
+        "label": "Enchant",
         "uiTheme": "vs-dark",
-        "path": "./themes/Luminary-color-theme.json"
+        "path": "./themes/enchant-color-theme.json"
       }
     ]
   }
