@@ -1,7 +1,12 @@
 import React from "react"
 
-const Index = () => {
-  return <div className="testing and teasing you all">index</div>
+function App() {
+  return (
+    <div className="App">
+      <h1>Hello, JSX!</h1>
+      <p>This is an example of JSX code.</p>
+    </div>
+  )
 }
 
-export default Index
+export default App
