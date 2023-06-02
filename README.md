@@ -5,7 +5,7 @@ Enchant is a vibrant and modern Visual Studio Code theme designed to provide an 
 ## Installation
 
 1. Launch Visual Studio Code.
-2. Go to the Extensions view by clicking on the square icon in the left sidebar or by pressing `Ctrl+Shift+X`.
+2. Go to the Extensions view by clicking on the square icon in the left sidebar or by pressing `Cmd+Shift+X` or `Ctrl+Shift+X`.
 3. Search for "Enchant" in the Extensions Marketplace.
 4. Click on the "Install" button next to the Enchant theme.
 5. Once installed, click on the "Reload" button to activate the theme.
@@ -14,7 +14,7 @@ Enchant is a vibrant and modern Visual Studio Code theme designed to provide an 
 
 1. Launch Visual Studio Code.
 2. Go to the View menu by clicking on "View" in the top menu bar.
-3. Select "Command Palette" or press `Ctrl+Shift+P`.
+3. Select "Command Palette" or press `Cmd+Shift+P` or `Ctrl+Shift+P`.
 4. Type "Preferences: Color Theme" in the command palette and press `Enter`.
 5. Select "Enchant" from the list of available themes.
 
