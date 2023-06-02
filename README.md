@@ -2,6 +2,14 @@
 
 Enchant is a vibrant and modern Visual Studio Code theme designed to provide an immersive coding experience. It features a carefully curated color palette, combining vivid tones with subtle contrasts, to make your code stand out and enhance your productivity.
 
+## Screenshots
+**Typescript**
+![Typescript](https://raw.githubusercontent.com/Ansub/enchant/main/images/screenshots/typescript.png)
+**Python**
+![Python](https://raw.githubusercontent.com/Ansub/enchant/main/images/screenshots/python.png)
+**Markdown**
+![Markdown](https://raw.githubusercontent.com/Ansub/enchant/main/images/screenshots/markdown.png)
+
 ## Installation
 
 1. Launch Visual Studio Code.
