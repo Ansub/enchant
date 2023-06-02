@@ -1,8 +1,21 @@
 {
-  "name": "luminary",
-  "displayName": "luminary",
-  "description": "",
+  "name": "Enchant",
+  "displayName": "Enchant",
+  "description": "A dark theme with a touch of magic",
   "version": "0.0.1",
+  "publisher": "Ansub",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ansub/enchant"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "ansub",
+    "enchant",
+    "dark mode",
+    "vs code dark theme"
+  ],
   "engines": {
     "vscode": "^1.78.0"
   },
