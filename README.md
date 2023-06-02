@@ -23,12 +23,16 @@ Enchant is a vibrant and modern Visual Studio Code theme designed to provide an 
 - **Vibrant Colors**: Enchant incorporates a vibrant color palette that helps differentiate various syntax elements and makes your code more visually appealing.
 - **High Contrast**: The theme offers a high contrast between the background and foreground, improving readability and reducing eye strain during long coding sessions.
 - **Customizable**: Enchant provides options to customize the theme to your liking. You can modify the color scheme, font style, and other visual elements to suit your preferences.
-- **Language Support**: Enchant is designed to provide optimal syntax highlighting for a wide range of programming languages and file formats, including Typescript, JavaScript, Python, HTML/CSS, Markdown, and many more.
+- **Language Support**: Enchant is designed to provide optimal syntax highlighting for a wide range of programming languages and file formats, including JavaScript, Python, HTML/CSS, Markdown, and many more.
 - **Consistency**: The theme maintains a consistent visual style across different file types and coding scenarios, ensuring a seamless experience throughout your coding projects.
 
 ## Feedback and Contributions
 
 Feedback, bug reports, and suggestions are always welcome! Feel free to [open an issue](https://github.com/ansub/enchant/issues) on the GitHub repository if you encounter any problems or have ideas for improvements.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
