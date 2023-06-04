@@ -1,9 +1,12 @@
-# Change Log
+# Changelog
 
 All notable changes to the "Enchant" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+This project adheres to [Semantic Versioning](http://semver.org/).
 
-## [Unreleased]
 
-- Initial release
+## [0.2.7] - 02/06/2023
+
+### Added
+
+- New Enchant Logo
