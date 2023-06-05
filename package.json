@@ -28,7 +28,12 @@
       {
         "label": "Enchant",
         "uiTheme": "vs-dark",
-        "path": "./themes/enchant-color-theme.json"
+        "path": "./themes/enchant.json"
+      },
+      {
+        "label": "Enchant - High Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/enchant-high-contrast.json"
       }
     ]
   }
