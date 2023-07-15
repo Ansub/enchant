@@ -9,7 +9,7 @@
     "activityBar.inactiveForeground": "#8D8F9E",
     "activityBarBadge.background": "#F465AD",
     "activityBarBadge.foreground": "#DEE0EF",
-    "badge.background": "#AD8EE6",
+    "badge.background": "#AD8EE7",
     "badge.foreground": "#232534",
     "banner.background": "#AD8EE6",
     "banner.foreground": "#232534",
@@ -417,7 +417,11 @@
       }
     },
     {
-      "scope": ["constant.numeric", "constant.language", "constant.charcter.escape"],
+      "scope": [
+        "constant.numeric",
+        "constant.language",
+        "constant.charcter.escape"
+      ],
       "settings": {
         "foreground": "#F465AD"
       }
@@ -429,7 +433,12 @@
       }
     },
     {
-      "scope": ["entity.name.section", "entity.name.tag", "entity.name.namespace", "entity.name.type"],
+      "scope": [
+        "entity.name.section",
+        "entity.name.tag",
+        "entity.name.namespace",
+        "entity.name.type"
+      ],
       "settings": {
         "foreground": "#F465AD"
       }
@@ -558,7 +567,12 @@
       }
     },
     {
-      "scope": ["variable.other", "variable.language", "variable.function", "variable.argument"],
+      "scope": [
+        "variable.other",
+        "variable.language",
+        "variable.function",
+        "variable.argument"
+      ],
       "settings": {
         "foreground": "#DEE0EF"
       }
